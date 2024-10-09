@@ -16,5 +16,5 @@ pip install sklearn,pandas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/shadrach098/Machine_Learning.git
 
