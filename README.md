@@ -11,7 +11,7 @@
 - Jupyter components (for styling and interaction)
 
 ## Installation
-Provide steps to install or clone the project.
+
 pip install sklearn,pandas
 
 1. Clone the repository:
