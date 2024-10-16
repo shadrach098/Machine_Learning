@@ -11,9 +11,10 @@
 - Jupyter components (for styling and interaction)
 
 ## Installation
-
-pip install sklearn,pandas
-
+Install Modules:
+   ```bash
+   pip install sklearn,pandas
+   ```
 1. Clone the repository:
    ```bash
    https://github.com/shadrach098/Machine_Learning.git
